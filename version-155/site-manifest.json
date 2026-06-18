@@ -1,0 +1,10 @@
+{
+  "site_title": "免费国产剧-热门电视剧大全-电视剧免费在线观看",
+  "logo": "国产剧集大全",
+  "movie_count": 2000,
+  "detail_pages": 2000,
+  "category_pages": 12,
+  "html_pages_total": 2019,
+  "image_policy": "HTML references root-level 1.jpg through 150.jpg cyclically; image files were not generated.",
+  "player_policy": "Detail pages bind HLS m3u8 sources extracted from the uploaded original JS file."
+}
